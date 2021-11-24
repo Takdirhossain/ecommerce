@@ -1,0 +1,102 @@
+.slide{
+    
+    padding: 40px 60px;
+    background-color: #FDEAE9;
+    border-radius: 10px;
+}
+.rightsec{
+    margin-top: 5%;
+    
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+    font-weight: bold;
+}
+p{
+    text-align: justify;
+}
+.price{
+    color: #FF2B7E;
+}
+.buy-now{
+    margin-top: 15px;
+    outline: none;
+    border: none;
+    background-color: #FF2B7E;
+    padding: 5px 20px;
+    border-radius: 10px;
+    color: #fff;
+}
+.buy-now:hover{
+    color: gray;
+}
+.container{
+    margin-bottom: 50px;
+}
+.mainpart{
+    border-radius: 10px;
+}
+.watch{
+    background-color: blue;
+    border-radius: 10px;
+}
+.beg{
+    background-color: blueviolet;
+    border-radius: 10px;
+
+}
+.shoes{
+    background-color: cornflowerblue;
+    border-radius: 10px;
+}
+.name-pro{
+    color: #fff;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+    margin-left: 30px;
+}
+.pro-img{
+    width: 100px;
+    height: 100px;
+    padding: 10px 10px;
+}
+.shoesdis{
+    text-align: center;
+}
+.shoestitle{
+    text-align: center;
+    font-weight: bold;
+}
+.shoesprice{
+    text-align: center;
+}
+.foter{
+    border-top: none;
+    background-color: #fff;
+}
+.buyshoes{
+    margin-left: 35%;background-color: black;
+    color: #fff;
+    padding:  3px 15px;
+    border-radius: 10px;
+}
+.subscribe{
+    height: 300px;
+    background-color: #FDEAE9;
+    
+
+}
+.subscribe h2{
+    text-transform: uppercase;
+}
+input{
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    color: gray;
+    
+}
+.copyright p{
+    text-align: center;
+}
